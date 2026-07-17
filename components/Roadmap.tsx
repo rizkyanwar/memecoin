@@ -4,7 +4,7 @@ const phases = [
     title: "The MeoCoin Begins",
     status: "done",
     items: [
-      "Token launch on Solana",
+      "Token launch on Base",
       "Website & social media live",
       "Community Telegram & Discord",
       "1,000+ holders milestone",
