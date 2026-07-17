@@ -12,6 +12,9 @@ export const metadata: Metadata = {
   title: "Meo — The Purrfect Memecoin",
   description:
     "Meo ($MEO) is the cutest memecoin on the blockchain. Join the cat army and ride the meow wave to the moon!",
+  other: {
+    "virtual-protocol-site-verification": "bdd9eb3221effefc67946c0bcca46efc",
+  }
 };
 
 export default function RootLayout({
